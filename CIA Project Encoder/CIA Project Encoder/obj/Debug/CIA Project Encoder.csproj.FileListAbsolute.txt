@@ -1,0 +1,10 @@
+C:\Users\Blake\Desktop\MCA\Programs\CIA Project Encoder\CIA Project Encoder\bin\Debug\CIA Project Encoder.exe.config
+C:\Users\Blake\Desktop\MCA\Programs\CIA Project Encoder\CIA Project Encoder\bin\Debug\CIA Project Encoder.exe
+C:\Users\Blake\Desktop\MCA\Programs\CIA Project Encoder\CIA Project Encoder\bin\Debug\CIA Project Encoder.pdb
+C:\Users\Blake\Desktop\MCA\Programs\CIA Project Encoder\CIA Project Encoder\obj\Debug\CIA Project Encoder.csprojAssemblyReference.cache
+C:\Users\Blake\Desktop\MCA\Programs\CIA Project Encoder\CIA Project Encoder\obj\Debug\CIA_Project_Encoder.Form1.resources
+C:\Users\Blake\Desktop\MCA\Programs\CIA Project Encoder\CIA Project Encoder\obj\Debug\CIA_Project_Encoder.Properties.Resources.resources
+C:\Users\Blake\Desktop\MCA\Programs\CIA Project Encoder\CIA Project Encoder\obj\Debug\CIA Project Encoder.csproj.GenerateResource.cache
+C:\Users\Blake\Desktop\MCA\Programs\CIA Project Encoder\CIA Project Encoder\obj\Debug\CIA Project Encoder.csproj.CoreCompileInputs.cache
+C:\Users\Blake\Desktop\MCA\Programs\CIA Project Encoder\CIA Project Encoder\obj\Debug\CIA Project Encoder.exe
+C:\Users\Blake\Desktop\MCA\Programs\CIA Project Encoder\CIA Project Encoder\obj\Debug\CIA Project Encoder.pdb
