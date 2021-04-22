@@ -1,0 +1,10 @@
+C:\Users\Blake\Desktop\MCA\Programs\CIA Project Decoder\CIA Project Decoder\bin\Debug\CIA Project Decoder.exe.config
+C:\Users\Blake\Desktop\MCA\Programs\CIA Project Decoder\CIA Project Decoder\bin\Debug\CIA Project Decoder.exe
+C:\Users\Blake\Desktop\MCA\Programs\CIA Project Decoder\CIA Project Decoder\bin\Debug\CIA Project Decoder.pdb
+C:\Users\Blake\Desktop\MCA\Programs\CIA Project Decoder\CIA Project Decoder\obj\Debug\CIA Project Decoder.csprojAssemblyReference.cache
+C:\Users\Blake\Desktop\MCA\Programs\CIA Project Decoder\CIA Project Decoder\obj\Debug\CIA_Project_Decoder.Form1.resources
+C:\Users\Blake\Desktop\MCA\Programs\CIA Project Decoder\CIA Project Decoder\obj\Debug\CIA_Project_Decoder.Properties.Resources.resources
+C:\Users\Blake\Desktop\MCA\Programs\CIA Project Decoder\CIA Project Decoder\obj\Debug\CIA Project Decoder.csproj.GenerateResource.cache
+C:\Users\Blake\Desktop\MCA\Programs\CIA Project Decoder\CIA Project Decoder\obj\Debug\CIA Project Decoder.csproj.CoreCompileInputs.cache
+C:\Users\Blake\Desktop\MCA\Programs\CIA Project Decoder\CIA Project Decoder\obj\Debug\CIA Project Decoder.exe
+C:\Users\Blake\Desktop\MCA\Programs\CIA Project Decoder\CIA Project Decoder\obj\Debug\CIA Project Decoder.pdb
